@@ -13,7 +13,7 @@ Tech Stack
 - Version Control: Git and GitHub
 - Design Tools: Figma for UI/UX design
 
-  Design Goals
+Design Goals
 - Create intuitive booking flow
 - Maintain visual consistency
 - Ensure fast loading times
